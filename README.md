@@ -1,4 +1,7 @@
 # tpyo-cli
+
+[![GuardRails badge](https://badges.production.guardrails.io/moul/tpyo-cli.svg)](https://www.guardrails.io)
+
 :ok_hand: Mkae tpyos in yuor tarmniel
 
 ```console
